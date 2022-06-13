@@ -17,7 +17,7 @@
   - As seen above, All green stocks in 2017 were able to be in the green, and provide a return with the exception of TERP stock being in negative (-7.2%)
   - 2017 green stock return leader were the following: DQ, SEDG, and ENPH. 
   - All green stocks in 2018 are in the red with negative returns with the following exceptions: ENPH (+81.9%), and RUN (+84%). 
-  - Based off the two years, the ENPH would be the first choice in stock to invest in as it was able to give green returns in a good economic year as well as a bad economic year based of the returns. 
+  - Based off the two years, the ENPH would be the first choice in stock to invest in as it was able to give green returns in a good economic year as well as a bad economic year based off the returns. 
 - Execution times of the original script and the refactored script.
   - Execution times using the original code
 
