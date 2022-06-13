@@ -9,6 +9,14 @@
 - compare the stock performance between 2017 and 2018,
 - Execution times of the original script and the refactored script.
   - Execution times using the original code
-  - Execution times using the refractured code     
+
+     ![This is an image](https://github.com/albalushiaj/stocks-analysis/blob/main/Resources/VBA_AllStock_2017.PNG)
+    
+     ![This is an image](https://github.com/albalushiaj/stocks-analysis/blob/main/Resources/VBA_AllStock_2018.PNG)
+  - Execution times using the refractured code 
+  
+     ![This is an image](https://github.com/albalushiaj/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+     
+     ![This is an image](https://github.com/albalushiaj/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 ## Summary
 - 
