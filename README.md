@@ -6,7 +6,7 @@
 - Determine if Refractoring or editing the green stocks dataset with VBA solution code will make it more efficient or faster. 
 ## Results
 - Examples of code or approaches that made the Analysis more efficient:
--   Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+-   Arrays are created for tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 -   ![image](https://user-images.githubusercontent.com/106709942/173269719-3626926d-e4a6-4dee-8443-f1eafe6a0a15.png)
     -  By doing so, the analysis would be completed much faster than using the nested for loop from the original script. 
 -  Adding Comments with every step to maintain a clean guide of what is happening. 
